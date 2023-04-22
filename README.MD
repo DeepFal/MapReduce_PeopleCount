@@ -14,7 +14,7 @@
 
 **使用方法：**
 
-将原始数据上传至HDFS中：
+下载原始数据 [Titanic+Data.csv](https://github.com/DeepFal/MapReduce_PeopleCount/blob/main/data/Titanic%2BData.csv) 上传至HDFS中：
 
 ```shell
 # hdfs dfs -mkdir -p /user/hadoop/input
